@@ -1,0 +1,48 @@
+<?php
+echo "<pre>";
+print_r($);
+echo "</pre>";
+die;
+
+//codeigniter 4
+echo $this->db->getLastQuery(); die;
+
+//codeigniter 3
+print_r($query);
+print_r($this->db->last_query());
+?>
+
+php spark make:controller Employee_group_chat
+php spark migrate
+php spark make:model Try_at_home
+
+/* vue js */
+ATBBtXMSQEDPHqBLABdqnkZFfg4E22C46FF3
+npm run server
+npm run dev
+json-server --watch db.json
+
+chintan.h@kalpcorporate.com
+Karv@228
+Gold@0609
+Master Password : uIf8$Q65GAChDm^F
+
+dev server database
+root
+agVrYbZtYEH^aS@BAyPsga#@?4-phXny^tXX5P#wf#UH-BkT
+mailto:admin@pickedsa.com
+12345678
+  
+  
+bitbucekt key : ATBBtcfYbD6yLqBZt7hGJz8kkE8QA44A4D07
+
+@php
+// Check if the "mobile" word exists in User-Agent 
+$isMob = is_numeric(strpos(strtolower($_SERVER["HTTP_USER_AGENT"]), "mobile")); 
+ 
+if($isMob){ 
+    echo 'Using Mobile Device...'; 
+}else{ 
+    echo 'Using Desktop...'; 
+}
+@endphp
